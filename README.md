@@ -22,18 +22,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fairygupta04&show_icons=true&theme=github_dark" alt="fairygupta04 stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fairygupta04&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="45%"/>
-</p>
-
----
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fairy-gupta-1a607a26b4/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fairy-gupta-14a67a284/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/fairygupta04)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fairygupta04@gmail.com)
 
 ---
 
