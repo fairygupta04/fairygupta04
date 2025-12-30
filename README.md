@@ -5,7 +5,7 @@
 
 🎓 I'm a 3rd-year Engineering student exploring the world of Cloud Computing and DevOps.  
 🛠️ I love turning concepts into small real-world projects using AWS, Linux, and scripting.  
-💡 Always learning something new — whether it's Docker, GitOps, or shell scripting.  
+💡 Always learning something new — whether it's Docker or shell scripting.  
 📌 Currently working on Linux automation, EC2 monitoring, and S3 website hosting.
 
 ---
